@@ -79,7 +79,7 @@ Outside development, I enjoy **technical speaking, mentoring, teaching web devel
 * 👨‍🏫 Led hands-on web development study jams
 * 🧑‍💻 Mentored junior developers across technical communities
 * 🧑‍⚖️ Invited as a technical hackathon judge
-* 🌏 Mentored a team that became a **finalist in the AI ASEAN Hackathon**
+* 🌏 Mentored teams participating in competitive technology and AI-focused hackathons
 
 ---
 
